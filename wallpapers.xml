@@ -1,0 +1,101 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "Animals"
+            },
+            {
+                "name": "Patterns"
+            },
+            {
+                "name": "Landscape"
+            },
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Random"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Unsplash",
+				"url": "https://raw.githubusercontent.com/reantech/universalwalls/master/Animals%201.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/reantech/universalwalls/master/PAnimals%201.jpg",
+				"name": "Animals 1",
+                "category": "Animals"
+			},
+			{
+				"author": "Unsplash",
+				"url": "https://raw.githubusercontent.com/reantech/universalwalls/master/City%201.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/reantech/universalwalls/master/PCity%201.jpg",
+				"name": "City 1",
+                "category": "City"
+			},
+			{
+				"author": "Unsplash",
+				"url": "https://raw.githubusercontent.com/reantech/universalwalls/master/Landscape%201.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/reantech/universalwalls/master/PLandscape%201.jpg",
+				"name": "Landscape 1",
+                "category": "Landscape"
+			},
+			{
+				"author": "Unsplash",
+				"url": "https://raw.githubusercontent.com/reantech/universalwalls/master/Landscape%202.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/reantech/universalwalls/master/PLandscape%202.jpg",
+				"name": "Landscape 2",
+                "category": "Landscape"
+			},
+			{
+				"author": "Unsplash",
+				"url": "https://raw.githubusercontent.com/reantech/universalwalls/master/Landscape%203.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/reantech/universalwalls/master/PLandscape%203.jpg",
+				"name": "Landscape 3",
+                "category": "Landscape"
+			},
+			{
+				"author": "Unsplash",
+				"url": "https://raw.githubusercontent.com/reantech/universalwalls/master/Landscape%204.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/reantech/universalwalls/master/PLandscape%204.jpg",
+				"name": "Landscape 4",
+                "category": "Landscape"
+			},
+			{
+				"author": "Unsplash",
+				"url": "https://raw.githubusercontent.com/reantech/universalwalls/master/Landscape%205.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/reantech/universalwalls/master/PLandscape%205.jpg",
+				"name": "Landscape 5",
+                "category": "Landscape"
+			},
+			{
+				"author": "Unsplash",
+				"url": "https://raw.githubusercontent.com/reantech/universalwalls/master/Nature%201.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/reantech/universalwalls/master/PNature%201.jpg",
+				"name": "Nature 1",
+                "category": "Nature"
+			},
+			{
+				"author": "Unsplash",
+				"url": "https://raw.githubusercontent.com/reantech/universalwalls/master/Nature%202.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/reantech/universalwalls/master/PNature%202.jpg",
+				"name": "Nature 2",
+                "category": "Nature"
+			},
+			{
+				"author": "Unsplash",
+				"url": "https://raw.githubusercontent.com/reantech/universalwalls/master/Patterns%201.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/reantech/universalwalls/master/PPatterns%201.jpg",
+				"name": "Patterns 1",
+                "category": "Patterns"
+			},
+			{
+				"author": "Unsplash",
+				"url": "https://raw.githubusercontent.com/reantech/universalwalls/master/Random%201.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/reantech/universalwalls/master/PRandom%201.jpg",
+				"name": "Random 1",
+                "category": "Random"
+			}
+		]
+}
